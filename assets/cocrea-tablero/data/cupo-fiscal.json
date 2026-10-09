@@ -1,0 +1,107 @@
+{
+ "unidad": "millones_cop",
+ "fuente": "CupoFiscal V3 — Power BI Oficina de Estrategia (Alejandro), corte 28-jul-2026. Fuentes del modelo: Base CID.xlsx + Historicos_consolidado.xlsx (SharePoint Cupo Fiscal). El origen migrará a Plataforma en 2026-II.",
+ "nota": "asignado y comprometido en millones de COP; disponible = asignado - comprometido. 2026 = convocatoria en curso (excluida del consolidado por la regla esAnioCompleto). asignado/comprometido son medidas calculadas por Alejo en Power BI (no derivables de los Excel crudos): se consume su resultado.",
+ "porAnio": {
+  "2020": {
+   "asignado": 300000,
+   "comprometido": 32140
+  },
+  "2021": {
+   "asignado": 600000,
+   "comprometido": 81761
+  },
+  "2022": {
+   "asignado": 207800,
+   "comprometido": 121409
+  },
+  "2023": {
+   "asignado": 265765,
+   "comprometido": 260056
+  },
+  "2024": {
+   "asignado": 399720,
+   "comprometido": 365433
+  },
+  "2025": {
+   "asignado": 575879,
+   "comprometido": 553259
+  },
+  "2026": {
+   "asignado": 80836,
+   "comprometido": 0
+  }
+ },
+ "notaModalidad": "comprometidoPorModalidad: derivado del Excel Historicos_consolidado (corte 28-jul-2026) con la regla SUMA(Partida_ajustada) sobre las filas con FECHA_ACE no nula, agrupada por MODALIDAD. Reproduce el comprometido agregado al millon en 5 de 6 anios (2025 difiere -23,7 MM). OJO: el ASIGNADO no se puede desglosar por modalidad — el CONFIS asigna una sola bolsa (la excepcion es 2026, con bolsas explicitas en el TDR). Por eso al filtrar por modalidad solo responde la capa de comprometido.",
+ "comprometidoPorModalidad": {
+  "2020": {
+   "PAI": 13794,
+   "PAP": 9697,
+   "PAT": 8649
+  },
+  "2021": {
+   "PAI": 9840,
+   "PAP": 46375,
+   "PAT": 25546
+  },
+  "2022": {
+   "PAI": 11657,
+   "PAP": 81321,
+   "PAT": 28432
+  },
+  "2023": {
+   "PAI": 17051,
+   "PAP": 217958,
+   "PAT": 25047
+  },
+  "2024": {
+   "PAI": 15421,
+   "PAP": 302238,
+   "PAT": 47774
+  },
+  "2025": {
+   "PAI": 18225,
+   "PAP": 515282,
+   "PAT": 19728
+  }
+ },
+ "proyectosComprometidos": {
+  "2020": {
+   "total": 48,
+   "PAI": 22,
+   "PAP": 8,
+   "PAT": 18
+  },
+  "2021": {
+   "total": 56,
+   "PAI": 17,
+   "PAP": 18,
+   "PAT": 21
+  },
+  "2022": {
+   "total": 77,
+   "PAI": 16,
+   "PAP": 31,
+   "PAT": 30
+  },
+  "2023": {
+   "total": 99,
+   "PAI": 21,
+   "PAP": 51,
+   "PAT": 27
+  },
+  "2024": {
+   "total": 165,
+   "PAI": 11,
+   "PAP": 101,
+   "PAT": 53
+  },
+  "2025": {
+   "total": 124,
+   "PAI": 10,
+   "PAP": 100,
+   "PAT": 14
+  }
+ },
+ "notaProyectos": "proyectosComprometidos: numero de proyectos con acta de compromiso (FECHA_ACE no nula) por anio y modalidad, del mismo Excel y corte. Permite leer la grafica en N de proyectos. El ASIGNADO no tiene conteo: es una bolsa de dinero, no un conjunto de proyectos."
+}

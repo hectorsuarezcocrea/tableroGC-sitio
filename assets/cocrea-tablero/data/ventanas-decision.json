@@ -1,0 +1,15 @@
+{
+  "_meta": {
+    "descripcion": "Calendario de VENTANAS DE DECISIÓN del ciclo de inversión CoCrea. Es un insumo INSTITUCIONAL que cura la Oficina de Gestión del Conocimiento: define los rangos de fecha en que se decide (convocatoria, evaluación, asignación, ajustes). El colector cruza la telemetría contra estas ventanas para el eje 'decisión-evidencia' (¿se consulta la evidencia cuando se decide?).",
+    "gobernanza": "Cura GC; validar en el Comité de Operación Estadística. Versionar por año/convocatoria.",
+    "version": "2026",
+    "nota": "BORRADOR con fechas de EJEMPLO — reemplazar por el calendario real de la convocatoria 2026."
+  },
+  "anio": 2026,
+  "ventanas": [
+    { "nombre": "Convocatoria", "desde": "2026-02-01", "hasta": "2026-03-15", "notas": "Apertura y recepción de proyectos." },
+    { "nombre": "Evaluación",   "desde": "2026-04-01", "hasta": "2026-05-15", "notas": "Proceso de evaluadores." },
+    { "nombre": "Asignación",   "desde": "2026-06-16", "hasta": "2026-06-30", "notas": "Comités de asignación del cupo." },
+    { "nombre": "Ajustes",      "desde": "2026-07-08", "hasta": "2026-07-22", "notas": "Ajustes y decisiones de seguimiento." }
+  ]
+}

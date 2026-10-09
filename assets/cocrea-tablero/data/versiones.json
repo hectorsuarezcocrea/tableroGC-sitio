@@ -1,0 +1,4 @@
+{
+  "_doc": "Historial de cortes ANTERIORES de la base (versiones previas). La versión VIGENTE no va aquí: se cuenta en vivo al abrir la página desde el origen real (VW_PROYECTOS en Azure SQL, hoy simulado con el mock). Para registrar un corte histórico añade una entrada: { fecha: 'YYYY-MM-DD', corte: 'Corte ...', registros: <conteo>, nota: '...' }. Idealmente este arreglo se genera desde un log de cargas en Azure (fecha + COUNT(*) por corte).",
+  "versiones": []
+}

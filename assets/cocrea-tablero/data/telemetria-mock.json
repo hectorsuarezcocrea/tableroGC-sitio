@@ -1,0 +1,1808 @@
+{
+  "generado": "2026-07-31T09:00:00-05:00",
+  "periodo": {
+    "desde": "2026-07-01",
+    "hasta": "2026-07-31"
+  },
+  "nota": "Datos de EJEMPLO para diseño y demostración. Cuando el colector central (Azure SQL) esté disponible, este archivo se reemplaza por el endpoint de lectura /api/cocrea/analytics/resumen.",
+  "tableros": [
+    {
+      "id": "gestion-conocimiento",
+      "app": "gestion-conocimiento",
+      "producto": "tablero",
+      "zona": "interno",
+      "nombre": "Gestión del Conocimiento",
+      "estado": "activo",
+      "kpis": {
+        "sesiones": 299,
+        "usuarios": 240,
+        "vistas": 1300,
+        "acciones": 511,
+        "minActivosProm": 10.1,
+        "vistasPorSesion": 4.3,
+        "duracionMediaMin": 13.4
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 9,
+          "vistas": 38
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 11,
+          "vistas": 44
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 10,
+          "vistas": 33
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 5,
+          "vistas": 19
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 4,
+          "vistas": 18
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 13,
+          "vistas": 44
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 12,
+          "vistas": 63
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 15,
+          "vistas": 71
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 15,
+          "vistas": 72
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 9,
+          "vistas": 36
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 5,
+          "vistas": 16
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 4,
+          "vistas": 16
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 10,
+          "vistas": 48
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 12,
+          "vistas": 62
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 9,
+          "vistas": 38
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 9,
+          "vistas": 28
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 15,
+          "vistas": 62
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 3,
+          "vistas": 10
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 3,
+          "vistas": 17
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 10,
+          "vistas": 41
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 11,
+          "vistas": 35
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 14,
+          "vistas": 65
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 12,
+          "vistas": 66
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 12,
+          "vistas": 39
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 4,
+          "vistas": 15
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 5,
+          "vistas": 28
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 12,
+          "vistas": 56
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 15,
+          "vistas": 65
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 10,
+          "vistas": 47
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 11,
+          "vistas": 56
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 10,
+          "vistas": 52
+        }
+      ],
+      "secciones": [
+        {
+          "section": "resumen",
+          "vistas": 400,
+          "usuarios": 257,
+          "segProm": 43
+        },
+        {
+          "section": "geografia",
+          "vistas": 274,
+          "usuarios": 171,
+          "segProm": 108
+        },
+        {
+          "section": "conversion-financiacion",
+          "vistas": 194,
+          "usuarios": 129,
+          "segProm": 67
+        },
+        {
+          "section": "uso-cupo",
+          "vistas": 145,
+          "usuarios": 95,
+          "segProm": 96
+        },
+        {
+          "section": "diversidad-equidad",
+          "vistas": 114,
+          "usuarios": 77,
+          "segProm": 98
+        },
+        {
+          "section": "ecosistema",
+          "vistas": 64,
+          "usuarios": 31,
+          "segProm": 83
+        },
+        {
+          "section": "campos-sectores",
+          "vistas": 49,
+          "usuarios": 23,
+          "segProm": 46
+        },
+        {
+          "section": "storytelling",
+          "vistas": 36,
+          "usuarios": 19,
+          "segProm": 22
+        },
+        {
+          "section": "resumen-general",
+          "vistas": 24,
+          "usuarios": 14,
+          "segProm": 101
+        }
+      ],
+      "acciones": [
+        {
+          "action": "filter",
+          "veces": 102
+        },
+        {
+          "action": "view_mode",
+          "veces": 77
+        },
+        {
+          "action": "export_csv",
+          "veces": 73
+        },
+        {
+          "action": "chat_open",
+          "veces": 59
+        },
+        {
+          "action": "chat_message",
+          "veces": 43
+        },
+        {
+          "action": "deck_open",
+          "veces": 31
+        },
+        {
+          "action": "deck_download",
+          "veces": 30
+        },
+        {
+          "action": "select_sector",
+          "veces": 23
+        },
+        {
+          "action": "select_territory",
+          "veces": 21
+        },
+        {
+          "action": "drilldown",
+          "veces": 15
+        }
+      ],
+      "filtros": [
+        {
+          "detail": "anio=2024",
+          "veces": 27
+        },
+        {
+          "detail": "anio=2025",
+          "veces": 20
+        },
+        {
+          "detail": "anio=2023",
+          "veces": 14
+        },
+        {
+          "detail": "anio=2025·modalidad=PAP",
+          "veces": 11
+        },
+        {
+          "detail": "modalidad=Convocatoria",
+          "veces": 10
+        },
+        {
+          "detail": "region=Andina",
+          "veces": 7
+        },
+        {
+          "detail": "anio=2024·modalidad=PAP",
+          "veces": 5
+        },
+        {
+          "detail": "region=Caribe",
+          "veces": 5
+        }
+      ],
+      "referrers": [
+        {
+          "ref": "Directo",
+          "sesiones": 93
+        },
+        {
+          "ref": "google.com",
+          "sesiones": 77
+        },
+        {
+          "ref": "cocrea.gov.co",
+          "sesiones": 46
+        },
+        {
+          "ref": "mincultura.gov.co",
+          "sesiones": 39
+        },
+        {
+          "ref": "X (Twitter)",
+          "sesiones": 27
+        },
+        {
+          "ref": "Correo institucional",
+          "sesiones": 17
+        }
+      ],
+      "decisionEvidencia": {
+        "nsmSesiones": 39,
+        "usoEnComite": 30,
+        "extraccionEvidencia": 103,
+        "consultasEnVentana": 617,
+        "consultasFueraVentana": 683
+      },
+      "segmentacion": {
+        "interno": {
+          "sesiones": 254,
+          "vistas": 1105,
+          "minActivosProm": 12.6
+        },
+        "externo": {
+          "sesiones": 45,
+          "vistas": 195,
+          "minActivosProm": 8.7
+        }
+      },
+      "calidad": {
+        "frescuraHoras": 2.6,
+        "pctSessionEnd": 83,
+        "pctBots": 2,
+        "pctInterno": 85,
+        "ratioActivo": 0.4
+      }
+    },
+    {
+      "id": "visor-cultural",
+      "app": "gestion-conocimiento",
+      "producto": "visor",
+      "zona": "externo",
+      "nombre": "Visor Cultural",
+      "estado": "activo",
+      "kpis": {
+        "sesiones": 946,
+        "usuarios": 813,
+        "vistas": 4311,
+        "acciones": 1599,
+        "minActivosProm": 6,
+        "vistasPorSesion": 4.6,
+        "duracionMediaMin": 8.7
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 26,
+          "vistas": 143
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 37,
+          "vistas": 167
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 38,
+          "vistas": 163
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 23,
+          "vistas": 132
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 21,
+          "vistas": 82
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 28,
+          "vistas": 87
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 31,
+          "vistas": 167
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 40,
+          "vistas": 142
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 31,
+          "vistas": 169
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 26,
+          "vistas": 135
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 25,
+          "vistas": 133
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 24,
+          "vistas": 95
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 38,
+          "vistas": 140
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 34,
+          "vistas": 188
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 37,
+          "vistas": 142
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 39,
+          "vistas": 159
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 33,
+          "vistas": 127
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 18,
+          "vistas": 72
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 26,
+          "vistas": 132
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 43,
+          "vistas": 222
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 29,
+          "vistas": 91
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 27,
+          "vistas": 141
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 35,
+          "vistas": 157
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 36,
+          "vistas": 141
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 17,
+          "vistas": 91
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 25,
+          "vistas": 100
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 40,
+          "vistas": 194
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 40,
+          "vistas": 210
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 25,
+          "vistas": 104
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 29,
+          "vistas": 148
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 25,
+          "vistas": 137
+        }
+      ],
+      "secciones": [
+        {
+          "section": "resumen",
+          "vistas": 1434,
+          "usuarios": 680,
+          "segProm": 107
+        },
+        {
+          "section": "economia",
+          "vistas": 826,
+          "usuarios": 553,
+          "segProm": 134
+        },
+        {
+          "section": "territorio",
+          "vistas": 618,
+          "usuarios": 373,
+          "segProm": 57
+        },
+        {
+          "section": "financiamiento",
+          "vistas": 507,
+          "usuarios": 307,
+          "segProm": 56
+        },
+        {
+          "section": "diversidad",
+          "vistas": 379,
+          "usuarios": 250,
+          "segProm": 135
+        },
+        {
+          "section": "ecosistema",
+          "vistas": 227,
+          "usuarios": 109,
+          "segProm": 124
+        },
+        {
+          "section": "indices",
+          "vistas": 198,
+          "usuarios": 111,
+          "segProm": 26
+        },
+        {
+          "section": "posicionamiento",
+          "vistas": 122,
+          "usuarios": 82,
+          "segProm": 40
+        }
+      ],
+      "acciones": [
+        {
+          "action": "filter",
+          "veces": 337
+        },
+        {
+          "action": "view_mode",
+          "veces": 318
+        },
+        {
+          "action": "export_csv",
+          "veces": 179
+        },
+        {
+          "action": "chat_message",
+          "veces": 160
+        },
+        {
+          "action": "chat_open",
+          "veces": 141
+        },
+        {
+          "action": "deck_open",
+          "veces": 97
+        },
+        {
+          "action": "deck_download",
+          "veces": 82
+        },
+        {
+          "action": "select_territory",
+          "veces": 67
+        },
+        {
+          "action": "select_sector",
+          "veces": 60
+        },
+        {
+          "action": "drilldown",
+          "veces": 44
+        }
+      ],
+      "filtros": [
+        {
+          "detail": "anio=2024",
+          "veces": 79
+        },
+        {
+          "detail": "anio=2025",
+          "veces": 65
+        },
+        {
+          "detail": "anio=2023",
+          "veces": 55
+        },
+        {
+          "detail": "anio=2025·modalidad=PAP",
+          "veces": 37
+        },
+        {
+          "detail": "modalidad=Convocatoria",
+          "veces": 33
+        },
+        {
+          "detail": "region=Andina",
+          "veces": 22
+        },
+        {
+          "detail": "anio=2024·modalidad=PAP",
+          "veces": 18
+        },
+        {
+          "detail": "region=Caribe",
+          "veces": 15
+        }
+      ],
+      "referrers": [
+        {
+          "ref": "Directo",
+          "sesiones": 301
+        },
+        {
+          "ref": "google.com",
+          "sesiones": 239
+        },
+        {
+          "ref": "cocrea.gov.co",
+          "sesiones": 148
+        },
+        {
+          "ref": "mincultura.gov.co",
+          "sesiones": 124
+        },
+        {
+          "ref": "X (Twitter)",
+          "sesiones": 79
+        },
+        {
+          "ref": "Correo institucional",
+          "sesiones": 55
+        }
+      ],
+      "decisionEvidencia": {
+        "nsmSesiones": 38,
+        "usoEnComite": 28,
+        "extraccionEvidencia": 261,
+        "consultasEnVentana": 2088,
+        "consultasFueraVentana": 2223
+      },
+      "segmentacion": {
+        "interno": {
+          "sesiones": 237,
+          "vistas": 1078,
+          "minActivosProm": 7.2
+        },
+        "externo": {
+          "sesiones": 709,
+          "vistas": 3233,
+          "minActivosProm": 5.4
+        }
+      },
+      "calidad": {
+        "frescuraHoras": 2.7,
+        "pctSessionEnd": 72,
+        "pctBots": 6,
+        "pctInterno": 25,
+        "ratioActivo": 0.5
+      }
+    },
+    {
+      "id": "tablero-base",
+      "app": "tablero-base",
+      "producto": "tablero",
+      "zona": "externo",
+      "nombre": "Tablero base (plantilla)",
+      "estado": "activo",
+      "kpis": {
+        "sesiones": 91,
+        "usuarios": 74,
+        "vistas": 423,
+        "acciones": 204,
+        "minActivosProm": 6.9,
+        "vistasPorSesion": 4.6,
+        "duracionMediaMin": 9.1
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 3,
+          "vistas": 11
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 6,
+          "vistas": 33
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 5,
+          "vistas": 16
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 6,
+          "vistas": 28
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 5,
+          "vistas": 17
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 5,
+          "vistas": 25
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 3,
+          "vistas": 14
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 2,
+          "vistas": 8
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 5,
+          "vistas": 21
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 6,
+          "vistas": 32
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 4,
+          "vistas": 19
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 4,
+          "vistas": 22
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 6,
+          "vistas": 34
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 3,
+          "vistas": 16
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 3,
+          "vistas": 14
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 6,
+          "vistas": 22
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 5,
+          "vistas": 26
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 5,
+          "vistas": 23
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 5,
+          "vistas": 24
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 4,
+          "vistas": 18
+        }
+      ],
+      "secciones": [
+        {
+          "section": "resumen",
+          "vistas": 117,
+          "usuarios": 63,
+          "segProm": 103
+        },
+        {
+          "section": "geografia",
+          "vistas": 93,
+          "usuarios": 56,
+          "segProm": 140
+        },
+        {
+          "section": "conversion-financiacion",
+          "vistas": 65,
+          "usuarios": 33,
+          "segProm": 115
+        },
+        {
+          "section": "uso-cupo",
+          "vistas": 43,
+          "usuarios": 21,
+          "segProm": 36
+        },
+        {
+          "section": "diversidad-equidad",
+          "vistas": 41,
+          "usuarios": 28,
+          "segProm": 49
+        },
+        {
+          "section": "ecosistema",
+          "vistas": 25,
+          "usuarios": 14,
+          "segProm": 66
+        },
+        {
+          "section": "campos-sectores",
+          "vistas": 17,
+          "usuarios": 9,
+          "segProm": 134
+        },
+        {
+          "section": "storytelling",
+          "vistas": 12,
+          "usuarios": 7,
+          "segProm": 140
+        },
+        {
+          "section": "resumen-general",
+          "vistas": 10,
+          "usuarios": 7,
+          "segProm": 90
+        }
+      ],
+      "acciones": [
+        {
+          "action": "filter",
+          "veces": 47
+        },
+        {
+          "action": "view_mode",
+          "veces": 33
+        },
+        {
+          "action": "export_csv",
+          "veces": 25
+        },
+        {
+          "action": "chat_open",
+          "veces": 24
+        },
+        {
+          "action": "chat_message",
+          "veces": 16
+        },
+        {
+          "action": "deck_open",
+          "veces": 15
+        },
+        {
+          "action": "deck_download",
+          "veces": 9
+        },
+        {
+          "action": "select_sector",
+          "veces": 9
+        },
+        {
+          "action": "select_territory",
+          "veces": 7
+        },
+        {
+          "action": "drilldown",
+          "veces": 6
+        }
+      ],
+      "filtros": [
+        {
+          "detail": "anio=2024",
+          "veces": 11
+        },
+        {
+          "detail": "anio=2025",
+          "veces": 9
+        },
+        {
+          "detail": "anio=2023",
+          "veces": 7
+        },
+        {
+          "detail": "anio=2025·modalidad=PAP",
+          "veces": 6
+        },
+        {
+          "detail": "modalidad=Convocatoria",
+          "veces": 4
+        },
+        {
+          "detail": "region=Andina",
+          "veces": 4
+        },
+        {
+          "detail": "anio=2024·modalidad=PAP",
+          "veces": 3
+        },
+        {
+          "detail": "region=Caribe",
+          "veces": 2
+        }
+      ],
+      "referrers": [
+        {
+          "ref": "Directo",
+          "sesiones": 29
+        },
+        {
+          "ref": "google.com",
+          "sesiones": 24
+        },
+        {
+          "ref": "cocrea.gov.co",
+          "sesiones": 15
+        },
+        {
+          "ref": "mincultura.gov.co",
+          "sesiones": 11
+        },
+        {
+          "ref": "X (Twitter)",
+          "sesiones": 6
+        },
+        {
+          "ref": "Correo institucional",
+          "sesiones": 6
+        }
+      ],
+      "decisionEvidencia": {
+        "nsmSesiones": 5,
+        "usoEnComite": 4,
+        "extraccionEvidencia": 34,
+        "consultasEnVentana": 224,
+        "consultasFueraVentana": 199
+      },
+      "segmentacion": {
+        "interno": {
+          "sesiones": 46,
+          "vistas": 212,
+          "minActivosProm": 8.6
+        },
+        "externo": {
+          "sesiones": 45,
+          "vistas": 211,
+          "minActivosProm": 5.5
+        }
+      },
+      "calidad": {
+        "frescuraHoras": 3.9,
+        "pctSessionEnd": 73,
+        "pctBots": 5,
+        "pctInterno": 50,
+        "ratioActivo": 0.3
+      }
+    },
+    {
+      "id": "unidad-tecnica",
+      "app": "unidad-tecnica",
+      "producto": "tablero",
+      "nombre": "Unidad Técnica",
+      "estado": "planeado",
+      "kpis": {
+        "sesiones": 0,
+        "usuarios": 0,
+        "vistas": 0,
+        "acciones": 0,
+        "minActivosProm": 0,
+        "vistasPorSesion": 0,
+        "duracionMediaMin": 0
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 0,
+          "vistas": 0
+        }
+      ],
+      "secciones": [],
+      "acciones": [],
+      "filtros": [],
+      "referrers": []
+    },
+    {
+      "id": "subdireccion-misional",
+      "app": "subdireccion-misional",
+      "producto": "tablero",
+      "nombre": "Subdirección Misional",
+      "estado": "planeado",
+      "kpis": {
+        "sesiones": 0,
+        "usuarios": 0,
+        "vistas": 0,
+        "acciones": 0,
+        "minActivosProm": 0,
+        "vistasPorSesion": 0,
+        "duracionMediaMin": 0
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 0,
+          "vistas": 0
+        }
+      ],
+      "secciones": [],
+      "acciones": [],
+      "filtros": [],
+      "referrers": []
+    },
+    {
+      "id": "comunicaciones",
+      "app": "comunicaciones",
+      "producto": "tablero",
+      "nombre": "Comunicaciones",
+      "estado": "planeado",
+      "kpis": {
+        "sesiones": 0,
+        "usuarios": 0,
+        "vistas": 0,
+        "acciones": 0,
+        "minActivosProm": 0,
+        "vistasPorSesion": 0,
+        "duracionMediaMin": 0
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 0,
+          "vistas": 0
+        }
+      ],
+      "secciones": [],
+      "acciones": [],
+      "filtros": [],
+      "referrers": []
+    },
+    {
+      "id": "estrategia",
+      "app": "estrategia",
+      "producto": "tablero",
+      "nombre": "Estrategia (por confirmar)",
+      "estado": "planeado",
+      "kpis": {
+        "sesiones": 0,
+        "usuarios": 0,
+        "vistas": 0,
+        "acciones": 0,
+        "minActivosProm": 0,
+        "vistasPorSesion": 0,
+        "duracionMediaMin": 0
+      },
+      "serie": [
+        {
+          "dia": "2026-07-01",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-02",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-03",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-04",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-05",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-06",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-07",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-08",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-09",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-10",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-11",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-12",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-13",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-14",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-15",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-16",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-17",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-18",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-19",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-20",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-21",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-22",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-23",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-24",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-25",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-26",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-27",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-28",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-29",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-30",
+          "sesiones": 0,
+          "vistas": 0
+        },
+        {
+          "dia": "2026-07-31",
+          "sesiones": 0,
+          "vistas": 0
+        }
+      ],
+      "secciones": [],
+      "acciones": [],
+      "filtros": [],
+      "referrers": []
+    }
+  ],
+  "ventanasDecision": [
+    {
+      "nombre": "Convocatoria",
+      "desde": "2026-02-01",
+      "hasta": "2026-03-15"
+    },
+    {
+      "nombre": "Evaluación",
+      "desde": "2026-04-01",
+      "hasta": "2026-05-15"
+    },
+    {
+      "nombre": "Asignación",
+      "desde": "2026-06-16",
+      "hasta": "2026-06-30"
+    },
+    {
+      "nombre": "Ajustes",
+      "desde": "2026-07-08",
+      "hasta": "2026-07-22"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_meta": {
+    "descripcion": "Catálogo institucional de tableros del ecosistema CoCrea. Registro gobernado que define, por tablero: identidad de telemetría (app + producto), zona, estado y colector. Da el denominador de la 'cobertura del ecosistema' y es la fuente del campo 'estado' de la página de telemetría.",
+    "gobernanza": "Lo cura la Oficina de Gestión del Conocimiento (custodio) y lo valida el Comité de Operación Estadística. Versionar cada cambio. Convención de app id: kebab-case, estable.",
+    "version": "2026-07-31",
+    "estados": {
+      "activo": "desplegado, instrumentado y con uso registrado en el periodo",
+      "sin-datos": "desplegado e instrumentado, pero sin uso registrado aún",
+      "planeado": "aún no construido / no instrumentado"
+    },
+    "nota": "Estado real a jul-2026: SOLO 3 tableros. El Tablero base es la plantilla de la que se derivan los demás. El Visor Cultural y el de Gestión del Conocimiento son el MISMO despliegue (comparten app id 'gestion-conocimiento') y se distinguen por 'producto'. Los tableros de unidades futuras se agregan aquí a medida que se construyan (heredan la telemetría del Tablero base)."
+  },
+  "tableros": [
+    {
+      "id": "tablero-base",
+      "app": "tablero-base",
+      "producto": "tablero",
+      "nombre": "Tablero base (plantilla)",
+      "unidad": "Gestión del Conocimiento",
+      "zona": "externo",
+      "estado": "activo",
+      "fechaDespliegue": "2026-07",
+      "endpoint": "/api/cocrea/analytics",
+      "notas": "Plantilla de la que se derivan todos los tableros. Usa el app id por defecto 'tablero-base'. IMPORTANTE: la instrumentación de telemetría (AnalyticsService con producto/zona/error/deeplink/feedback) debe estar en esta base para que cada tablero nuevo la herede. Confirmar que tiene la versión más reciente (ver TELEMETRIA_HANDOFF_TI.md)."
+    },
+    {
+      "id": "gestion-conocimiento",
+      "app": "gestion-conocimiento",
+      "producto": "tablero",
+      "nombre": "Gestión del Conocimiento",
+      "unidad": "Gestión del Conocimiento",
+      "zona": "interno",
+      "estado": "activo",
+      "fechaDespliegue": "2026-07",
+      "endpoint": "/api/cocrea/analytics",
+      "notas": "Tablero interno de decisión (ruta /tablero). Aquí vive la página de telemetría. Comparte despliegue y app id con el Visor; se distingue por producto='tablero'."
+    },
+    {
+      "id": "visor-cultural",
+      "app": "gestion-conocimiento",
+      "producto": "visor",
+      "nombre": "Visor Cultural",
+      "unidad": "Gestión del Conocimiento",
+      "zona": "interno",
+      "estado": "activo",
+      "fechaDespliegue": "2026-07",
+      "endpoint": "/api/cocrea/analytics",
+      "notas": "Servido en /visor DESDE el mismo despliegue de GC → mismo app id ('gestion-conocimiento'), distinguido por producto='visor'. Si más adelante se publica externamente, sería un despliegue aparte con su propio app id y zona='externo'."
+    },
+    {
+      "id": "unidad-tecnica",
+      "app": "unidad-tecnica",
+      "producto": "tablero",
+      "nombre": "Unidad Técnica",
+      "unidad": "Unidad Técnica",
+      "zona": "externo",
+      "estado": "planeado",
+      "fechaDespliegue": null,
+      "endpoint": null,
+      "notas": "Partirá del Tablero base. Al construirse, hereda la telemetría del base; asignarle este app id y apuntar su endpoint al colector central."
+    },
+    {
+      "id": "subdireccion-misional",
+      "app": "subdireccion-misional",
+      "producto": "tablero",
+      "nombre": "Subdirección Misional",
+      "unidad": "Subdirección Misional",
+      "zona": "externo",
+      "estado": "planeado",
+      "fechaDespliegue": null,
+      "endpoint": null,
+      "notas": "Partirá del Tablero base."
+    },
+    {
+      "id": "comunicaciones",
+      "app": "comunicaciones",
+      "producto": "tablero",
+      "nombre": "Comunicaciones",
+      "unidad": "Comunicaciones",
+      "zona": "externo",
+      "estado": "planeado",
+      "fechaDespliegue": null,
+      "endpoint": null,
+      "notas": "Partirá del Tablero base."
+    },
+    {
+      "id": "estrategia",
+      "app": "estrategia",
+      "producto": "tablero",
+      "nombre": "Estrategia (por confirmar)",
+      "unidad": "Estrategia",
+      "zona": "externo",
+      "estado": "planeado",
+      "fechaDespliegue": null,
+      "endpoint": null,
+      "porConfirmar": true,
+      "notas": "Por confirmar si se construye. Partiría del Tablero base."
+    }
+  ]
+}

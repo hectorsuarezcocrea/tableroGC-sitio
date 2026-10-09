@@ -1,0 +1,7277 @@
+{
+ "1": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 1171.2,
+   "h": 211.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 96,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Sector audiovisual en Colombia"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 465.6,
+   "w": 1171.2,
+   "h": 86.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 48,
+     "b": true,
+     "i": true,
+     "col": "FFFFFF",
+     "t": "Panorama y financiación pública"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 604.8,
+   "w": 1171.2,
+   "h": 86.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Hallazgos sobre los tres instrumentos públicos del audiovisual: FDC, C"
+    }
+   ]
+  }
+ ],
+ "2": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 2",
+   "x": 0,
+   "y": 0,
+   "w": 489.6,
+   "h": 720,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 57.6,
+   "y": 96,
+   "w": 432,
+   "h": 211.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 117.33,
+     "b": true,
+     "i": null,
+     "col": "FFFFFF",
+     "t": "Índice"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 1084.8,
+   "y": 28.8,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 5",
+   "x": 528,
+   "y": 148.8,
+   "w": 720,
+   "h": 0,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 1,
+    "col": "#FFFFFF"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 6",
+   "x": 556.8,
+   "y": 153.6,
+   "w": 86.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 53.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "1"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 662.4,
+   "y": 172.8,
+   "w": 595.2,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "El sector audiovisual: definición y marco legal"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 8",
+   "x": 528,
+   "y": 244.8,
+   "w": 720,
+   "h": 0,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 1,
+    "col": "#FFFFFF"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 556.8,
+   "y": 249.6,
+   "w": 86.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 53.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "2"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 662.4,
+   "y": 268.8,
+   "w": 595.2,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Magnitud económica y producción reciente"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 11",
+   "x": 528,
+   "y": 340.8,
+   "w": 720,
+   "h": 0,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 1,
+    "col": "#FFFFFF"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 556.8,
+   "y": 345.6,
+   "w": 86.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 53.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "3"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 13",
+   "x": 662.4,
+   "y": 384.3,
+   "w": 595.2,
+   "h": 28.3,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Tres"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "instrumentos"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "públicos"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "para"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "el"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "sector"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 14",
+   "x": 528,
+   "y": 436.8,
+   "w": 720,
+   "h": 0,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 1,
+    "col": "#FFFFFF"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 556.8,
+   "y": 441.6,
+   "w": 86.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 53.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "4"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 662.4,
+   "y": 460.8,
+   "w": 595.2,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CoCrea y el audiovisual — evidencia desde la base"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 17",
+   "x": 528,
+   "y": 532.8,
+   "w": 720,
+   "h": 0,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 1,
+    "col": "#FFFFFF"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 556.8,
+   "y": 537.6,
+   "w": 86.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 53.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "5"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 662.4,
+   "y": 556.8,
+   "w": 595.2,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Hallazgos profundos sobre la base CoCrea"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 20",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2 / 23"
+    }
+   ]
+  }
+ ],
+ "3": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 182.4,
+   "w": 576,
+   "h": 268.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 226.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "01"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 465.6,
+   "w": 1171.2,
+   "h": 144,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "El sector audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 590.4,
+   "w": 1171.2,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Definición operativa anclada en la CSECC del DANE, y marco legal aplic"
+    }
+   ]
+  }
+ ],
+ "4": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "1. ¿Qué entendemos por sector audiovisual?"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Definición operativa anclada en la CSECC del DANE"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Encuadre CSECC"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 6",
+   "x": 667.2,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Marco legal aplicable"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 7",
+   "x": 638.4,
+   "y": 273.6,
+   "w": 0,
+   "h": 364.8,
+   "fill": "#2E293E",
+   "ln": {
+    "w": 1,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 8",
+   "x": 52.8,
+   "y": 310.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 76.8,
+   "y": 292.8,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Subsector dentro de «industrias culturales»: 57,7 % del valor agregado"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 10",
+   "x": 52.8,
+   "y": 425.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 76.8,
+   "y": 408,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Engloba cine, televisión, animación, contenidos digitales para streami"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 12",
+   "x": 52.8,
+   "y": 540.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 13",
+   "x": 76.8,
+   "y": 523.2,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Comparte territorio con «medios digitales y software» (creaciones func"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 14",
+   "x": 667.2,
+   "y": 310.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 691.2,
+   "y": 292.8,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Ley 814 de 2003 (Ley del Cine) → Fondo para el Desarrollo Cinematográf"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 16",
+   "x": 667.2,
+   "y": 425.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 691.2,
+   "y": 408,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Ley 1556 de 2012 → Fondo Fílmico Colombia (FFC) y Certificados de Inve"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 18",
+   "x": 667.2,
+   "y": 540.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 691.2,
+   "y": 523.2,
+   "w": 537.6,
+   "h": 110.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Ley 1955 de 2019 art. 180 → incentivo tributario CoCrea (165 %)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 20",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "4 / 23"
+    }
+   ]
+  }
+ ],
+ "5": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "2. Magnitud económica y producción reciente"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "El audiovisual lidera dentro de las industrias culturales; 2024 marca "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 5",
+   "x": 52.8,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 52.8,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 52.8,
+   "y": 244.8,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 34.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "57,7 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 52.8,
+   "y": 307.2,
+   "w": 283.2,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "del VAB de industrias culturales (DANE 2023)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 9",
+   "x": 347.5,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 10",
+   "x": 347.5,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 347.5,
+   "y": 244.8,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 34.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "74"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 347.5,
+   "y": 307.2,
+   "w": 283.2,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "estrenos colombianos en cine en 2024 (récord)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 13",
+   "x": 642.2,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 14",
+   "x": 642.2,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 642.2,
+   "y": 244.8,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 34.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "≈ US$60 M"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 642.2,
+   "y": 307.2,
+   "w": 283.2,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "cupo CINA aprobado para producción internacional 2025"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 17",
+   "x": 937,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 18",
+   "x": 937,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 937,
+   "y": 244.8,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 34.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "30+"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 20",
+   "x": 937,
+   "y": 307.2,
+   "w": 283.2,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "proyectos CINA en 2024 vs ≈6/año entre 2012-2020"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 52.8,
+   "y": 388.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "El año del récord"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 22",
+   "x": 667.2,
+   "y": 388.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Una señal mixta de empleo"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 23",
+   "x": 638.4,
+   "y": 417.6,
+   "w": 0,
+   "h": 264,
+   "fill": "#2E293E",
+   "ln": {
+    "w": 1,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 24",
+   "x": 52.8,
+   "y": 454.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 25",
+   "x": 76.8,
+   "y": 436.8,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "«Cien años de soledad» en Netflix con incentivo CINA por ≈ COP 47.000 "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 26",
+   "x": 52.8,
+   "y": 535.7,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 76.8,
+   "y": 518.4,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "74 estrenos nacionales en cine en 2024: 28 dramas, 25 documentales, 9 "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 28",
+   "x": 52.8,
+   "y": 617.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 76.8,
+   "y": 600,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Único subsector cultural cubierto por tres instrumentos públicos difer"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 30",
+   "x": 667.2,
+   "y": 454.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 31",
+   "x": 691.2,
+   "y": 436.8,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Economía cultural y creativa nacional: 832.464 ocupados en 2023 (+6,6%"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 32",
+   "x": 667.2,
+   "y": 535.7,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 33",
+   "x": 691.2,
+   "y": 518.4,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Industrias culturales: −16,7% en empleo en 2023 — caída paradójica fre"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 34",
+   "x": 667.2,
+   "y": 617.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 35",
+   "x": 691.2,
+   "y": 600,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Audiovisual CoCrea 2025: contracción del 67 % vs récord 2024 (21 proye"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 36",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 37",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "5 / 23"
+    }
+   ]
+  }
+ ],
+ "6": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 182.4,
+   "w": 576,
+   "h": 268.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 226.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "02"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 422.4,
+   "w": 1171.2,
+   "h": 171.9,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Tres"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "instrumentos"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "públicos"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "para"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "el"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "sector"
+    },
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 614.4,
+   "w": 1171.2,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "FDC, CINA y"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "CoCrea"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": ":"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "tres"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "lógicas"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "complementarias"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "para"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "financiar"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "la"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "producción"
+    },
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "audiovisual."
+    }
+   ]
+  }
+ ],
+ "7": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "3. Tres instrumentos, tres lógicas"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Cada uno opera en un nicho distinto y bajo una arquitectura legal prop"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 806.4,
+   "h": 360.1,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Lectura"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "FDC: parafiscal, producción nacional, $22.186 MM (2024)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CINA: producción internacional, US$60M = $240.000 MM (2025)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CoCrea audiovisual: $184.686 MM (2024) — 77% del cupo CINA."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Los tres conviven y cubren nichos distintos sin sustituirse."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "7 / 23"
+    }
+   ]
+  }
+ ],
+ "8": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "4. FDC — Fondo para el Desarrollo Cinematográfico"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Mecanismo parafiscal sectorial, foco en producción nacional"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 5",
+   "x": 52.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 52.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 52.8,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 29.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$22.186 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 52.8,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Convocatoria 2024 (28 modalidades)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 9",
+   "x": 449.3,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 10",
+   "x": 449.3,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 449.3,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 29.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "≈ $19.000 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 449.3,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Convocatorias CNACC 2025 (estimado)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 13",
+   "x": 845.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 14",
+   "x": 845.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 845.8,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 29.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "≥ 70 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 845.8,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Destinación obligatoria a producción cinematográfica"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 403.2,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Convocatoria 2024 — principales modalidades"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 667.2,
+   "y": 403.2,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Cobertura adicional"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 19",
+   "x": 638.4,
+   "y": 432,
+   "w": 0,
+   "h": 249.6,
+   "fill": "#2E293E",
+   "ln": {
+    "w": 1,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 20",
+   "x": 52.8,
+   "y": 468.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 76.8,
+   "y": 451.2,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "COP 6.000 MM — Promoción, taquilla, participación internacional."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 22",
+   "x": 52.8,
+   "y": 545.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 23",
+   "x": 76.8,
+   "y": 528,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "COP 5.750 MM — Proyectos étnicos, regionales e infantiles."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 24",
+   "x": 52.8,
+   "y": 622.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 25",
+   "x": 76.8,
+   "y": 604.8,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "COP 3.370 MM — Desarrollo y producción de documental."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 26",
+   "x": 667.2,
+   "y": 468.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 691.2,
+   "y": 451.2,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "COP 2.780 MM — Animación."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 28",
+   "x": 667.2,
+   "y": 545.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 691.2,
+   "y": 528,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "COP 846 MM — Circulación a través de muestras y festivales."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 30",
+   "x": 667.2,
+   "y": 622.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 31",
+   "x": 691.2,
+   "y": 604.8,
+   "w": 537.6,
+   "h": 72,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Piso legal desde 2024 (Ley 2277/2022): no inferior al recaudo 2019."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 32",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 33",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "8 / 23"
+    }
+   ]
+  }
+ ],
+ "9": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "5. CINA — Certificados de Inversión Audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Incentivo tributario al rodaje de producción audiovisual internacional"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 5",
+   "x": 52.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 52.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 52.8,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "35 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 52.8,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Deducción tributaria sobre la inversión en Colombia"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 9",
+   "x": 449.3,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 10",
+   "x": 449.3,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 449.3,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "≈ US$60 M"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 449.3,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Cupo CINA aprobado 2025 (CNACC / Proimágenes)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 13",
+   "x": 845.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 139.2,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 14",
+   "x": 845.8,
+   "y": 230.4,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 845.8,
+   "y": 249.6,
+   "w": 388.8,
+   "h": 62.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "5×"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 845.8,
+   "y": 316.8,
+   "w": 388.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Más proyectos en 2024 que en promedio 2012-2020"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 17",
+   "x": 52.8,
+   "y": 403.2,
+   "w": 1171.2,
+   "h": 240,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 18",
+   "x": 52.8,
+   "y": 403.2,
+   "w": 9.6,
+   "h": 240,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 81.6,
+   "y": 412.8,
+   "w": 1132.8,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "Caso bandera 2024 — «Cien años de soledad» (Netflix)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 20",
+   "x": 91.2,
+   "y": 475.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 110.4,
+   "y": 465.6,
+   "w": 1104,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Incentivo CINA recibido: ≈ COP 47.000 millones — equivalente a más de "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 22",
+   "x": 91.2,
+   "y": 516.5,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 23",
+   "x": 110.4,
+   "y": 506.9,
+   "w": 1104,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Más de 5.000 personas involucradas; equipo técnico y artístico 97% col"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 24",
+   "x": 91.2,
+   "y": 557.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 25",
+   "x": 110.4,
+   "y": 548.2,
+   "w": 1104,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Señal de madurez del aparato productivo nacional para operar a escala "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 26",
+   "x": 91.2,
+   "y": 599,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 110.4,
+   "y": 589.4,
+   "w": 1104,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Administrado por Proimágenes Colombia, sin pasar por el PGN."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 28",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "9 / 23"
+    }
+   ]
+  }
+ ],
+ "10": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 182.4,
+   "w": 576,
+   "h": 268.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 226.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "03"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 465.6,
+   "w": 1171.2,
+   "h": 144,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CoCrea y el audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 590.4,
+   "w": 1171.2,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Evidencia desde la base CoCrea: 191 proyectos avalados 2020–2025 por C"
+    }
+   ]
+  }
+ ],
+ "11": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "6. Partida avalada del audiovisual en CoCrea"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "191 proyectos avalados 2020-2025 por COP 354.371 millones (9,7% del to"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 806.4,
+   "h": 415.7,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Lectura"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Crecimiento ×10 entre 2020 y 2024."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "2024 concentra el 52 % del histórico CoCrea audiovisual."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Promedio 2020-2024 ($58.600 MM/año) ≈ 2,6× el FDC anual."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "2025 marca una contracción del 67 % respecto al récord."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "11 / 23"
+    }
+   ]
+  }
+ ],
+ "12": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "7. El audiovisual dentro del incentivo CoCrea"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 110.9,
+   "y": 142,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "12,4 % del valor"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "CoCrea"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "va"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "a"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "industrias"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "culturales"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": ";"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "el"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "audiovisual"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "capta"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "77,8 % de"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "esa"
+    },
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "porción"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 112,
+   "y": 202.9,
+   "w": 604.8,
+   "h": 478.7,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Disonancia con la economía cultural"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Industrias culturales: 15,7 % del VAB cultural (DANE); CoCrea les dest"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Audiovisual: 57,7 % del VAB de IC; recibe 9,7 % en CoCrea."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Creaciones funcionales: 71,5 % VAB Bogotá / 72 % nacional; reciben 21,"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "→ CoCrea concentra 65,6 % en artes/patrimonio + áreas transversales."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "12 / 23"
+    }
+   ]
+  }
+ ],
+ "13": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 182.4,
+   "w": 576,
+   "h": 268.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 226.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "04"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 465.6,
+   "w": 1171.2,
+   "h": 144,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Hallazgos profundos"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 590.4,
+   "w": 1171.2,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Cinco lecturas que la base CoCrea nos devuelve sobre el audiovisual, m"
+    }
+   ]
+  }
+ ],
+ "14": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "8. Cinco hallazgos sobre el audiovisual en CoCrea"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Lecturas adicionales a la base (n=191 proyectos avalados, $354.371 MM,"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 5",
+   "x": 52.8,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 158.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 52.8,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 52.8,
+   "y": 252.5,
+   "w": 388.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 40,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "50,9 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 52.8,
+   "y": 326.4,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Tasa de aprobación"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 52.8,
+   "y": 360,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "vs 46,5 % del resto CoCrea (+4,4 pp)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 10",
+   "x": 449.3,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 158.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 11",
+   "x": 449.3,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 449.3,
+   "y": 252.5,
+   "w": 388.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 40,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "16,6 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 13",
+   "x": 449.3,
+   "y": 326.4,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Materialización en CID"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 449.3,
+   "y": 360,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "$58.820 MM certificados de $354.371 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 15",
+   "x": 845.8,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 158.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 16",
+   "x": 845.8,
+   "y": 235.2,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 845.8,
+   "y": 252.5,
+   "w": 388.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 40,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "12×"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 845.8,
+   "y": 326.4,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Crecimiento del ticket"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 845.8,
+   "y": 360,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "$191 MM (2020) → $2.313 MM (2025)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 20",
+   "x": 254.4,
+   "y": 427.2,
+   "w": 388.8,
+   "h": 168,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 21",
+   "x": 254.4,
+   "y": 427.2,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 22",
+   "x": 254.4,
+   "y": 444.5,
+   "w": 388.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 40,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "72,6 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 23",
+   "x": 254.4,
+   "y": 518.4,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Concentración Bogotá + Antioquia"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 24",
+   "x": 254.4,
+   "y": 552,
+   "w": 388.8,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "del valor audiovisual; solo 22 deptos cubiertos"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 25",
+   "x": 652.8,
+   "y": 427.2,
+   "w": 388.8,
+   "h": 168,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 26",
+   "x": 652.8,
+   "y": 427.2,
+   "w": 388.8,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 652.8,
+   "y": 444.5,
+   "w": 388.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 40,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "20,2 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 28",
+   "x": 652.8,
+   "y": 518.4,
+   "w": 388.8,
+   "h": 33.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 14.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Valor vía PAT (aportes de terceros)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 652.8,
+   "y": 552,
+   "w": 388.8,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "casi al doble del promedio CoCrea (11,3 %)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 30",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 31",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "14 / 23"
+    }
+   ]
+  }
+ ],
+ "15": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "9. Del aval al CID: solo 16,6 % se ha materializado"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "De $354.371 millones avalados, solo $58.820 millones se han certificad"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 806.4,
+   "h": 423.9,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Lectura"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Solo 44 de 191 proyectos (23 %) solicitaron al menos un CID."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Certificados ($58.820 MM) = 16,6 % de la partida avalada."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Cuello de botella: cerrar financiación con aportantes."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Métrica clave para reportar al regulador."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "15 / 23"
+    }
+   ]
+  }
+ ],
+ "16": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "10. El ticket creció 12× en cinco años"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Mediana de la partida por proyecto: $191 MM (2020) → $2.313 MM (2025)"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 806.4,
+   "h": 416,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Lectura"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Mediana × 12,1 entre 2020 y 2025."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Promedio × 7,0 ($417 → $2.918 MM)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Máximo: CRIME WAVES (LULOFILMS, 2024) con $25.969 MM."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "2022 sin proyectos — verificar si fue real o vacío de carga."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "16 / 23"
+    }
+   ]
+  }
+ ],
+ "17": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "11. Concentración territorial: Bogotá + Antioquia = 72,6 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Solo 22 departamentos y 49 municipios con audiovisual avalado en 6 año"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 806.4,
+   "h": 405,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 883.2,
+   "y": 220.8,
+   "w": 355.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 897.6,
+   "y": 238.1,
+   "w": 326.4,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Lectura"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 9",
+   "x": 902.4,
+   "y": 297.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 921.6,
+   "y": 288,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Bogotá: 84 proyectos · $157.180 MM · 44,4 %."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 11",
+   "x": 902.4,
+   "y": 388.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 921.6,
+   "y": 379.2,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Antioquia: 45 proy · $100.025 MM · 28,2 %."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 13",
+   "x": 902.4,
+   "y": 480,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 921.6,
+   "y": 470.4,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "La Guajira (7,6 %) figura por un único proyecto."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 15",
+   "x": 902.4,
+   "y": 571.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 921.6,
+   "y": 561.6,
+   "w": 302.4,
+   "h": 81.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Mapa audiovisual es esencialmente urbano y bipolar."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "17 / 23"
+    }
+   ]
+  }
+ ],
+ "18": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "12. Cómo se financia el audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Dependencia casi doble en PAT vs CoCrea total y caída del apalancamien"
+    }
+   ]
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 5",
+   "x": 28.8,
+   "y": 220.8,
+   "w": 595.2,
+   "h": 303.2,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "pic",
+   "nm": "Picture 6",
+   "x": 652.8,
+   "y": 220.8,
+   "w": 595.2,
+   "h": 261.5,
+   "fill": null,
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 7",
+   "x": 52.8,
+   "y": 561.6,
+   "w": 1171.2,
+   "h": 105.6,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 8",
+   "x": 52.8,
+   "y": 561.6,
+   "w": 9.6,
+   "h": 105.6,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 81.6,
+   "y": 571.2,
+   "w": 1132.8,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "Lectura conjunta"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 81.6,
+   "y": 604.8,
+   "w": 1132.8,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "El audiovisual depende casi al doble de aportantes-terceros (PAT, 20,2"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "18 / 23"
+    }
+   ]
+  }
+ ],
+ "19": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "13. ¿Quiénes y qué financia CoCrea en el audiovisual?"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Subsectores, empleo declarado y top proyectos del histórico 2020–2025"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 5",
+   "x": 52.8,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 6",
+   "x": 52.8,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 52.8,
+   "y": 240,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 26.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "6.989"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 52.8,
+   "y": 302.4,
+   "w": 283.2,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Personas ocupadas declaradas (mediana 22 por proyecto)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 9",
+   "x": 347.5,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 10",
+   "x": 347.5,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 347.5,
+   "y": 240,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 26.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "14,3 meses"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 347.5,
+   "y": 302.4,
+   "w": 283.2,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Duración promedio del proyecto audiovisual"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 13",
+   "x": 642.2,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 14",
+   "x": 642.2,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 642.2,
+   "y": 240,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 26.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "163"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 16",
+   "x": 642.2,
+   "y": 302.4,
+   "w": 283.2,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Proponentes distintos (Top-10 = 40 % del valor)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 17",
+   "x": 937,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 134.4,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 18",
+   "x": 937,
+   "y": 225.6,
+   "w": 283.2,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 937,
+   "y": 240,
+   "w": 283.2,
+   "h": 57.6,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 26.67,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "14,5 %"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 20",
+   "x": 937,
+   "y": 302.4,
+   "w": 283.2,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 12,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "del valor son «contenidos multimedia interactivos»"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 52.8,
+   "y": 388.8,
+   "w": 576,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "Top 5 proyectos audiovisuales por partida"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 22",
+   "x": 52.8,
+   "y": 432,
+   "w": 340.8,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CRIME WAVES (LULOFILMS)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 23",
+   "x": 393.6,
+   "y": 432,
+   "w": 48,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2024"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 24",
+   "x": 441.6,
+   "y": 432,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Dibulla"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 25",
+   "x": 528,
+   "y": 432,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$25.969 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 26",
+   "x": 52.8,
+   "y": 462.7,
+   "w": 340.8,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "EL RECOLECTOR DE LANA (GOLDENBIRD)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 393.6,
+   "y": 462.7,
+   "w": 48,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2023"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 28",
+   "x": 441.6,
+   "y": 462.7,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Bogotá"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 528,
+   "y": 462.7,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$23.048 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 30",
+   "x": 52.8,
+   "y": 493.4,
+   "w": 340.8,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "ENDGAME — entretenimiento interactivo"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 31",
+   "x": 393.6,
+   "y": 493.4,
+   "w": 48,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2024"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 32",
+   "x": 441.6,
+   "y": 493.4,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Bogotá"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 33",
+   "x": 528,
+   "y": 493.4,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$12.994 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 34",
+   "x": 52.8,
+   "y": 524.2,
+   "w": 340.8,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "InVeCo — acelerador audiovisual (VERITE)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 35",
+   "x": 393.6,
+   "y": 524.2,
+   "w": 48,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2021"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 36",
+   "x": 441.6,
+   "y": 524.2,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Cali"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 37",
+   "x": 528,
+   "y": 524.2,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$12.452 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 38",
+   "x": 52.8,
+   "y": 554.9,
+   "w": 340.8,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "ZIMBALIST PRODUCTIONS"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 39",
+   "x": 393.6,
+   "y": 554.9,
+   "w": 48,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "2024"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 40",
+   "x": 441.6,
+   "y": 554.9,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Medellín"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 41",
+   "x": 528,
+   "y": 554.9,
+   "w": 96,
+   "h": 30.7,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "$10.370 MM"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 42",
+   "x": 672,
+   "y": 388.8,
+   "w": 561.6,
+   "h": 264,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 43",
+   "x": 672,
+   "y": 388.8,
+   "w": 9.6,
+   "h": 264,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 44",
+   "x": 691.2,
+   "y": 398.4,
+   "w": 528,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": true,
+     "i": null,
+     "col": "143759",
+     "t": "Actividad económica (CIIU)"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 45",
+   "x": 696,
+   "y": 446.4,
+   "w": 6.7,
+   "h": 6.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 46",
+   "x": 715.2,
+   "y": 436.8,
+   "w": 508.8,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "5911 Producción cinematográfica: 54 proy / $167.621 MM (47 %)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 47",
+   "x": 696,
+   "y": 487.7,
+   "w": 6.7,
+   "h": 6.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 48",
+   "x": 715.2,
+   "y": 478.1,
+   "w": 508.8,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "9004 Creación audiovisual: 52 proy / $57.923 MM (16 %)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 49",
+   "x": 696,
+   "y": 529,
+   "w": 6.7,
+   "h": 6.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 50",
+   "x": 715.2,
+   "y": 519.4,
+   "w": 508.8,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "6201 Desarrollo de sistemas: 7 proy / $29.675 MM — interactivos."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 51",
+   "x": 696,
+   "y": 570.2,
+   "w": 6.7,
+   "h": 6.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 52",
+   "x": 715.2,
+   "y": 560.6,
+   "w": 508.8,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "5820 Edición de software: 1 proy / $12.994 MM (ENDGAME)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 53",
+   "x": 696,
+   "y": 611.5,
+   "w": 6.7,
+   "h": 6.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 54",
+   "x": 715.2,
+   "y": 601.9,
+   "w": 508.8,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "5914 Exhibición de películas: 14 proy / $8.811 MM."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 55",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 56",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "19 / 23"
+    }
+   ]
+  }
+ ],
+ "20": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "14. Calidad de la base — qué corregir antes de publicar"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Hallazgos secundarios sobre trazabilidad y agregabilidad"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Problemas detectados"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 6",
+   "x": 667.2,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Próximos pasos sugeridos"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 7",
+   "x": 638.4,
+   "y": 268.8,
+   "w": 0,
+   "h": 427.2,
+   "fill": "#2E293E",
+   "ln": {
+    "w": 1,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 8",
+   "x": 52.8,
+   "y": 305.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 76.8,
+   "y": 288,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "2022 sin audiovisuales avalados — verificar si fue real o vacío de car"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 10",
+   "x": 52.8,
+   "y": 386.9,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 76.8,
+   "y": 369.6,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Proponentes duplicados por puntuación (BA STUDIOS SAS vs S.A.S)."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 12",
+   "x": 52.8,
+   "y": 468.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 13",
+   "x": 76.8,
+   "y": 451.2,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CIIU sin normalizar — actividad 5911 aparece en 3 variantes."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 14",
+   "x": 52.8,
+   "y": 550.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 15",
+   "x": 76.8,
+   "y": 532.8,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "APORTES_REALIZADOS = 0 para los 191 proyectos."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 16",
+   "x": 52.8,
+   "y": 631.7,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 17",
+   "x": 76.8,
+   "y": 614.4,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Subreporte de género: 79 % de personas naturales sin reportar."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 18",
+   "x": 667.2,
+   "y": 305.3,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 19",
+   "x": 691.2,
+   "y": 288,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Confirmar con operación si 2022 fue año sin convocatoria."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 20",
+   "x": 667.2,
+   "y": 386.9,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 21",
+   "x": 691.2,
+   "y": 369.6,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Normalizar nombres de proponentes por NIT — no razón social."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 22",
+   "x": 667.2,
+   "y": 468.5,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 23",
+   "x": 691.2,
+   "y": 451.2,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Estandarizar texto de CIIU a una sola variante por código."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 24",
+   "x": 667.2,
+   "y": 550.1,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 25",
+   "x": 691.2,
+   "y": 532.8,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Recargar APORTES_REALIZADOS contra los CIDs certificados."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 26",
+   "x": 667.2,
+   "y": 631.7,
+   "w": 9.6,
+   "h": 9.6,
+   "fill": "#2E293E",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 691.2,
+   "y": 614.4,
+   "w": 537.6,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Implementar campos obligatorios de género y pertenencia étnica."
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 28",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 29",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "20 / 23"
+    }
+   ]
+  }
+ ],
+ "21": [
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 182.4,
+   "w": 576,
+   "h": 268.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 226.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "05"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 465.6,
+   "w": 1171.2,
+   "h": 144,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 69.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Hallazgos y vacíos"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 590.4,
+   "w": 1171.2,
+   "h": 76.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Tres lecturas y cuatro preguntas que el sector audiovisual le devuelve"
+    }
+   ]
+  }
+ ],
+ "22": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 1084.8,
+   "y": 38.4,
+   "w": 144,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "CO·CREA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 52.8,
+   "y": 52.8,
+   "w": 1171.2,
+   "h": 134.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 42.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "15. Hallazgos clave para el planteamiento"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 4",
+   "x": 52.8,
+   "y": 177.6,
+   "w": 1171.2,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 17.33,
+     "b": null,
+     "i": true,
+     "col": "2E293E",
+     "t": "Tres lecturas y cuatro preguntas que el sector audiovisual le devuelve"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 52.8,
+   "y": 220.8,
+   "w": 576,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 21.33,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Hallazgos"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 6",
+   "x": 52.8,
+   "y": 273.6,
+   "w": 81.6,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "FBBC33",
+     "t": "01"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 7",
+   "x": 139.2,
+   "y": 273.6,
+   "w": 489.6,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Ecosistema más maduro del sector cultural"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 8",
+   "x": 139.2,
+   "y": 313.9,
+   "w": 489.6,
+   "h": 96,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Único subsector con tres instrumentos públicos —FDC y CINA especializa"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 9",
+   "x": 52.8,
+   "y": 398.4,
+   "w": 81.6,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "FBBC33",
+     "t": "02"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 10",
+   "x": 139.2,
+   "y": 398.4,
+   "w": 489.6,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Concentración del dinero en producción de gran escala"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 11",
+   "x": 139.2,
+   "y": 438.7,
+   "w": 489.6,
+   "h": 96,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "CINA y CoCrea audiovisual canalizan recursos hacia proyectos grandes; "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 12",
+   "x": 52.8,
+   "y": 523.2,
+   "w": 81.6,
+   "h": 52.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 37.33,
+     "b": true,
+     "i": null,
+     "col": "FBBC33",
+     "t": "03"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 13",
+   "x": 139.2,
+   "y": 523.2,
+   "w": 489.6,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 16,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Empleo a contracorriente del crecimiento productivo"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 14",
+   "x": 139.2,
+   "y": 563.5,
+   "w": 489.6,
+   "h": 96,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Pese al récord de estrenos, las industrias culturales reportaron −16,7"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 15",
+   "x": 638.4,
+   "y": 220.8,
+   "w": 0,
+   "h": 432,
+   "fill": "#2E293E",
+   "ln": {
+    "w": 1,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 16",
+   "x": 667.2,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 432,
+   "fill": "#FFFFFF",
+   "ln": {
+    "w": 0.7,
+    "col": "#2E293E"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "Rectangle 17",
+   "x": 667.2,
+   "y": 220.8,
+   "w": 561.6,
+   "h": 6.7,
+   "fill": "#FBBC33",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 18",
+   "x": 686.4,
+   "y": 240,
+   "w": 523.2,
+   "h": 43.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 18.67,
+     "b": true,
+     "i": null,
+     "col": "2E293E",
+     "t": "Preguntas para discusión"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 19",
+   "x": 691.2,
+   "y": 307.2,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 20",
+   "x": 710.4,
+   "y": 297.6,
+   "w": 499.2,
+   "h": 91.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "¿Debería CoCrea diferenciar explícitamente su nicho del FDC y del CINA"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 21",
+   "x": 691.2,
+   "y": 398.4,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 22",
+   "x": 710.4,
+   "y": 388.8,
+   "w": 499.2,
+   "h": 91.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "¿Cómo articular un instrumento parafiscal (FDC), uno tributario domést"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 23",
+   "x": 691.2,
+   "y": 489.6,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 24",
+   "x": 710.4,
+   "y": 480,
+   "w": 499.2,
+   "h": 91.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "Si las creaciones funcionales son el motor del valor agregado, ¿amerit"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "Oval 25",
+   "x": 691.2,
+   "y": 580.8,
+   "w": 7.7,
+   "h": 7.7,
+   "fill": "#143759",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 26",
+   "x": 710.4,
+   "y": 571.2,
+   "w": 499.2,
+   "h": 91.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 13.33,
+     "b": null,
+     "i": null,
+     "col": "2E293E",
+     "t": "¿Qué señales debe enviar el sistema para que el récord productivo de 2"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 27",
+   "x": 52.8,
+   "y": 686.4,
+   "w": 864,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": true,
+     "col": "5C5C68",
+     "t": "Sector audiovisual en Colombia · Oficina de Gestión del Conocimiento, "
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 28",
+   "x": 1152,
+   "y": 686.4,
+   "w": 115.2,
+   "h": 28.8,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 10.67,
+     "b": null,
+     "i": null,
+     "col": "5C5C68",
+     "t": "22 / 23"
+    }
+   ]
+  }
+ ],
+ "23": [
+  {
+   "tag": "sp",
+   "nm": "Rectangle 1",
+   "x": 0,
+   "y": 0,
+   "w": 1279.7,
+   "h": 720,
+   "fill": "#A4CFF0",
+   "ln": null,
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 2",
+   "x": 576,
+   "y": 153.6,
+   "w": 124.8,
+   "h": 38.4,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 24,
+     "b": true,
+     "i": null,
+     "col": "999999",
+     "t": "● ■ ▲"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 3",
+   "x": 0,
+   "y": 288,
+   "w": 1279.7,
+   "h": 144,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 122.67,
+     "b": true,
+     "i": null,
+     "col": "5C5C68",
+     "t": "GRACIAS"
+    }
+   ]
+  },
+  {
+   "tag": "cxnSp",
+   "nm": "Connector 4",
+   "x": 384,
+   "y": 436.8,
+   "w": 511.7,
+   "h": 0,
+   "fill": "#999999",
+   "ln": {
+    "w": 0.7,
+    "col": "#999999"
+   },
+   "runs": []
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 5",
+   "x": 0,
+   "y": 456,
+   "w": 1279.7,
+   "h": 67.2,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 29.33,
+     "b": true,
+     "i": null,
+     "col": "5C5C68",
+     "t": "Mayo / 2026"
+    }
+   ]
+  },
+  {
+   "tag": "sp",
+   "nm": "TextBox 6",
+   "x": 0,
+   "y": 604.8,
+   "w": 1279.7,
+   "h": 48,
+   "fill": null,
+   "ln": null,
+   "runs": [
+    {
+     "sz": 29.33,
+     "b": true,
+     "i": null,
+     "col": "FFFFFF",
+     "t": "CO·CREA"
+    }
+   ]
+  }
+ ]
+}
